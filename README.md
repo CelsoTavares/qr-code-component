@@ -5,3 +5,4 @@
 
 Neste desafio foi adicionado uma ***fonte externa*** e utilizado ***HTML*** junto com ***CSS***.
 - **GITHUB** - [Celso Tavares](https://github.com/CelsoTavares) 
+- **LINKEDIN** - [Celso Tavares](linkedin.com/in/celsotavaresjunior) 
