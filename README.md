@@ -1,5 +1,5 @@
 # Desafio frontend mentor QR-code-component
-
+(#topo)
 * #### [Objetivo](#Objetivo)
     #### Construir este componente de código QR e fazê-lo parecer o mais próximo possível do design.
 
@@ -10,7 +10,7 @@
 * #### [Tecnologias](#Tecnologias)
     #### HTML e CSS
     
-    
+[Voltar ao topo](#topo)    
 ##### Desenvolvido por Celso Tavares veja meu [Linkedin](https://www.linkedin.com/in/celsotavaresjunior/)
 
 
