@@ -1,5 +1,5 @@
 # Desafio frontend mentor QR-code-component
-(#topo)
+[](#topo)
 * #### [Objetivo](#Objetivo)
     #### Construir este componente de código QR e fazê-lo parecer o mais próximo possível do design.
 
