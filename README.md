@@ -9,6 +9,8 @@
     #### Meu primeiro desafio no Frontend Mentor, desafio simples, mas que permitiu treinar meus conhecimentos que adquirir através de estudos, utilizei somente uma classe e da mesma selecionei os outros elementos dentro do meu css, foi utilizado display flex para a manipulação dos elementos.
 * ### Tecnologias
     #### HTML e CSS
+* ### Links
+    #### [Projeto](https://celsotavares.github.io/QR-code-component/)
 * ### Autor
     #### *Celso Tavares*
    
