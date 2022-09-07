@@ -1,4 +1,4 @@
-# Desafio Frontend Mentor QR code component
+# Desafio Frontend Mentor QR Code Component
 
 * ### Objetivo
     #### Construir este componente de código QR e fazê-lo parecer o mais próximo possível do design.
