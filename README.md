@@ -11,6 +11,7 @@
     #### HTML e CSS
 * ### Links
     #### [Projeto](https://celsotavares.github.io/QR-code-component/)
+    #### [Frontend Mentor](https://www.frontendmentor.io/profile/CelsoTavares)
 * ### Autor
     #### *Celso Tavares*
    
