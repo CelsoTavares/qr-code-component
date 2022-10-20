@@ -18,7 +18,7 @@ Meu primeiro desafio no Frontend Mentor, desafio simples, mas que permitiu trein
 
 ## Links
 
-#### [Projeto](https://celsotavares.github.io/QR-code-component/)
+#### [Projeto](https://celsotavares.github.io/qr-code-component/)
 #### [Frontend Mentor](https://www.frontendmentor.io/profile/CelsoTavares)
 
 ## Autor
